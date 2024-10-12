@@ -43,7 +43,6 @@ class Solution4 {
         // int maxVal = Arrays.stream(nums).max().getAsInt();
         
         // while (maxVal > exp) {
-        //     //给数组排序
         //     int[] cnt = new int[10];
         //     for (int i = 0; i < n; i++) {
         //         int digit = (nums[i] / (int) exp) % 10;
